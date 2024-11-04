@@ -1,5 +1,9 @@
 1.what is webgl and three js
+- Webgl is available in all modern browsers.
+- Three js is a library that makes it easier to use webgl.
+- both uses fpu power to render 3d graphics.
 2.making a cude as quick as possible
+2.1 understanding the code above
 3.transformations
 4.Animations
 5.setting up vite
